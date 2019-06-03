@@ -9,6 +9,7 @@ function [Sn] = signalGen(t,fdom,wide,varargin)
 % coh = coherence value in case of non independent signals
 % 
 % Gabriel Orellana Lopez
+% June 2019
 %%%%%%%%%%%%%%%%%%%%%
 
 try
