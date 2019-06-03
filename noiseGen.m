@@ -6,6 +6,7 @@ function [Noise] = noiseGen(t,frecs,alpha)
 % alpha = parameter of pink noise
 % 
 % Gabriel Orellana Lopez
+% June 2019
 % %%%%%%%%%
 
 Noise = zeros(size(t));
