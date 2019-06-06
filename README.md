@@ -1,5 +1,5 @@
 # EEG-simulation
-functions for realistic EEG simulations of background noise and oscillatory signal
+MATLAB functions for realistic EEG simulations of background noise and oscillatory signal
 
 Two different functions create simulated background noise and simulated signals of interest
 
